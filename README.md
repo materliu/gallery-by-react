@@ -1,8 +1,6 @@
 Gallery By React
 =====
 
-[![Pair on this](https://tf-assets-staging.s3.amazonaws.com/badges/thinkful_repo_badge.svg)](http://start.thinkful.com/react/?utm_source=github&utm_medium=badge&utm_campaign=boron)
-
 使用ReactJS构架的图片画廊应用-为慕课网《React实战》课程对应的实战项目
 
 ## Demo & Examples
