@@ -1,6 +1,8 @@
 Gallery By React
 =====
 
+[![Build Status](https://secure.travis-ci.org/materliu/gallery-by-react.png)](https://travis-ci.org/materliu/gallery-by-react)
+
 使用ReactJS构架的图片画廊应用-为慕课网《React实战》课程对应的实战项目
 
 ## Demo & Examples
