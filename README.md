@@ -30,6 +30,7 @@ Then open [`http://localhost:8000/webpack-dev-server/`](http://localhost:8000/we
 
 * lyn
 * codrops/ScatteredPolaroidsGallery
+* 有问题可发issue， 或者微博沟通： [http://weibo.com/jasonandliu/](http://weibo.com/jasonandliu/)
 
 ## Browser Support
 
